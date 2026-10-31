@@ -1,0 +1,6 @@
+streamlit
+pandas
+qrcode
+openpyxl
+pypdf
+pillow
